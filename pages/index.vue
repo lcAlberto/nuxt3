@@ -1,13 +1,10 @@
 <template>
-  <div>
-    <div class="card card-compact w-96 bg-base-100 shadow-xl">
-      <figure><img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" /></figure>
-      <div class="card-body">
-        <h2 class="card-title">Shoes!</h2>
-        <p>If a dog chews shoes whose shoes does he choose?</p>
-        <div class="card-actions justify-end">
-          <button class="btn btn-primary">Buy Now</button>
-        </div>
+  <div class="hero min-h-screen bg-base-200">
+    <div class="hero-content text-center">
+      <div class="max-w-md">
+        <h1 class="text-5xl font-bold">MAT MAX</h1>
+        <p class="py-6">Maior acervo de filmes, séries de qualidade do bom e verdadeiro cinema</p>
+        <button class="btn btn-primary">Let's Bora</button>
       </div>
     </div>
   </div>
