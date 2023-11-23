@@ -1,5 +1,7 @@
 <template>
-  
+  <NuxtLayout name="default">
+    HOMEEME
+  </NuxtLayout>
 </template>
 
 <script setup lang="ts">
